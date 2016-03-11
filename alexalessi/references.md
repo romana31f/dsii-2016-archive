@@ -2,6 +2,8 @@
 
 Testo normale
 
+_testo in italic_
+
 ##ELENCO
 -elenco 1
 -elenco 2
