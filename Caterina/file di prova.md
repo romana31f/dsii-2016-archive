@@ -28,6 +28,7 @@
 *Un sistema di misurazione riceve il segnale delle frequenze wifi che manda ad una barra alta 4m con dei punti luce, questi, tramite fotografie a lunga esposizione, creano geometrie che variano nello spazio a seconda del segnale.* 
 
 ###what if |
+*Il sistema potrebbe essere utilizzato per captare anche onde di dati/trasmissioni, o anche la presenza di elementi paranormali in ambienti dove non ci sono evidenti presenze di connessioni WiFi.*
 
 
 
@@ -43,7 +44,5 @@
 *Un software analizza 4.500 fonti di news inglesi sparse in tutto il mondo, ad ogni notizia di un'uccisione viene azionato il meccanismo di apertura posto al di sotto del box in plastica che contiene le palline gialle, facendone cadere una alla volta per ogni persona, queste rotolano si accumulano sul pavimento.*
 
 ###what if |
+*Il sistema non avrebbe lo stesso effetto significativo se riguardasse le nascite, poichè il suono di una pallina che cade è sicuramente riconducibile ad un evento imprevisto o violento. In caso l'istallazione facesse riferimento a notizie riguardo nascite o adozioni si dovrebbero utilizzare altre tipologie di elementi da lasciar cadere o magari utilizzare superfici di un materiale differente : più morbido o elastico, vellutato o ammortizzato.*
 
-*paragraph*
-
-_conclusione_
