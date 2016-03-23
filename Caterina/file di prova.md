@@ -9,7 +9,7 @@
 *Il data visualization mostra i flussi migratori in Europa dal 2012 al 2015 e come questi siano aumentati o diminuiti.*
 
 ###how it works | 
-*Dallala concentrazione dei punti sulla mappa generale si evidenziano le popolazioni che più si sono spostate dal loro territorio (punto di partenza del trattino) e le nazioni verso cui si sono diretti (punto di arrivo del t.). Inoltre la barra in alto permette una temporalizzazione degli eventi e riassume la quantità complessiva del flusso migratorio in un diagramma lineare.*
+*Dalla concentrazione dei punti sulla mappa generale si evidenziano le popolazioni che più si sono spostate dal loro territorio (punto di partenza del trattino) e le nazioni verso cui si sono diretti (punto di arrivo del t.). Inoltre la barra in alto permette una temporalizzazione degli eventi e riassume la quantità complessiva del flusso migratorio in un diagramma lineare.*
 
 ###what if | 
 *Essendo i flussi cromaticamente uguali, l'idea di cambiare il colore a seconda della nazione di provenienza potrebbe aiutare ad identificare meglio, nel punto di arrivo, quali sono le popolazioni che più si spostano verso quel territorio, tuttavia ciò potrebbe creare difficoltà  nella lettura complessiva del dato.*
@@ -22,7 +22,7 @@
 *Un sistema che crea nell'ambiente urbano delle rappresentazioni grafiche, simili a diagrammi, con scie di luci led, che vengono riprese da una fotocamera.*
 
 ###what does it mean | 
-*Attraverso questi frame è possibile vedere l'intesità dei segnali wifi che si trovano in quell'ambiente, attraverso la quantità di luci, la loro posizione e quindi e la forma che disegnano.* 
+*Attraverso questi frame è possibile vedere l'intensità dei segnali wifi che si trovano in quell'ambiente, attraverso la quantità di luci, la loro posizione e quindi e la forma che disegnano.* 
 
 ###how it works | 
 *Un sistema di misurazione riceve il segnale delle frequenze wifi che manda ad una barra alta 4m con dei punti luce, questi, tramite fotografie a lunga esposizione, creano geometrie che variano nello spazio a seconda del segnale.* 
