@@ -1,0 +1,23 @@
+##The flow towards Europe, 2015, Lucify##
+
+WHAT IS
+*Rappresentazione interattiva del flusso di richiedenti asilo presso gli stati europei dal 2012. Mappa interattiva che permette la visualizzazione giorno per giorno del flusso di migranti. *
+
+HOW DOES IT WORK
+
+*Mappa europea (e altro) presentata con tonalità scure (favorisce l’approfondimento dei contenuti). I confini degli stati emergono in maniera frastagliata ma sufficientemente chiara per un’accurata distinzione. 
+Gli elementi bianchi mobili sulla cartina sono la rappresentazione del flusso: ogni elemento (punto) rappresenta 25 persone (all’incirca la capacità di trasporto di un autobus pieno). Questi elementi nel corso dello svolgimento dell’infografica vanno a comporre una barra verticale corrispondente al valore totale dei richiedenti asilo. Questa ulteriore rappresentazione permette di mettere a confronto le diverse destinazioni.
+
+Sopra la mappa è posizionato un grafico a linee per indicare l’andamento del tasso complessivo dei richiedenti asilo nel corso del tempo. Attraverso l’utilizzo del mouse sul grafico si può scegliere l’istante temporale desiderato.
+
+Navigando nella mappa si possono selezionare (e bloccare la selezione) i singoli stati per indagare il numero di richiedenti asilo arrivati nello stato, gli stati di provenienza (indicati con le tonalità del viola a seconda della concentrazione) e gli stati di destinazione dei richiedenti asilo di quello specifico Stato che si sta analizzando (indicati con le tonalità del verde a seconda della concentrazione). All’informazione cromatica è correlata un’informazione numerica necessaria per la comprensione precisa del dato (preceduta dal segno + per gli stati riceventi e dal segno - per gli stati di provenienza) .
+
+Un ulteriore grafico mostra  il flusso totale mensile dei richiedenti asilo dai paesi di provenienza a quelli di destinazione. Per una chiara visualizzazione si possono evidenziare i singoli valori ed individuare il flusso da-a.*
+
+WHAT DOES IT MEAN
+*Strumento per visualizzare l’emergenza > L’informazione generalmente poco chiara richiede numerosi approfondimenti per avere un quadro complessivo delle notizie.
+Gli argomenti vengono trattati senza la piena consapevolezza dell’emergenza e della problematica.*
+
+WHAT IF
+*- possibile visualizzazione per genere ed età : ulteriore chiarimento dei flussi dei richiedenti asilo
+- alterazione del grafico: come cambierebbe la mappa se gli stati si ingrandissero o si rimpicciolissero in funzione dei flussi in entrata e in uscita? Al colore si aggiunge l’informazione della superficie > viene disegnata una nuova mappa (cosa resta del mondo?)*
