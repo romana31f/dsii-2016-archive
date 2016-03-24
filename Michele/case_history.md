@@ -13,14 +13,6 @@ Passando il mouse su i vari Stati si può vedere il flusso di persone (ogni punt
 Il grafico a linee, posizionato sopra la mappa, mostra il tasso totale dei richiedenti asilo nel corso del tempo e da la possibilità di far partire tutto il sistema in un periodo a nostro piacimento.
 
 ### Cosa succederebbe se?
-
-Lista
-- uno
-- due
-- tre
-
-**Considerazioni**
-
-_Conclusione_
+Sarebbe interessante se la mappa trasmettesse i dati in tempo reale, come se fosse un grande radar, grazie all'aiuto dei GPS dei telefoni cellulari. Potrebbe essere molto utile soprattutto per i profughi che partono dal Nord Africa alla volta dell'Europa a bordo di imbarcazioni fatiscenti e stracolme, in questo modo i soccorritori saprebbero dove intervenire e si potrebbero evitare molte morti.
 
 [Lucify - The flow towards Europe](http://www.lucify.com/the-flow-towards-europe/)
