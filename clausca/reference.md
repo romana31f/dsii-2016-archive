@@ -8,6 +8,7 @@ La mappa fa utilizzo dei dati dell’agenzia Onu per i rifugiati e sulla base di
 I flussi migratori sono rappresentati graficamente mediante punti in movimento nella mappa. Ogni punto rappresenta venticinque persone. Si possono visualizzare i movimenti migratori per provenienza e per paese di destinazione. Sopra la mappa interattiva è presente una timeline che consente di muoversi nel tempo dal 2012 al dicembre 2015.
 
 Nel dettaglio
+
 passando con il mouse su di un paese, la mappa restituisce dati associati a quel paese: 
 - il numero totale di rifugiati presenti, visualizzato mediante la barra di un istogramma con associato il valore numerico.
 - contemporaneamente sulla mappa vengono evidenziati i paesi di provenienza dei rifugiati, ognuno riportante la cifra di persone che hanno abbandonato il paese (cifra preceduta dal segno meno). Questi paesi sono visualizzati con un colore (viola) che varia di opacità a seconda della densità di emigrati.
