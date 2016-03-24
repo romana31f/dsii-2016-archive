@@ -50,5 +50,5 @@ Il rumore meccanico e freddo proveniente dal meccanismo di rilascio delle pallin
 
 
 ### What if
-Perchè il colore giallo?
+Riflettere sul materiale o delle palline o della pavimentazione per avere un risposta sonora più d’impatto. Ad esempio, un suono dal timbro “corposo, scuro e pesante” per rendere la rilevanza e la gravità del fenomeno.
 
