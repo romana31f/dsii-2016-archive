@@ -35,5 +35,9 @@ Da me interpretato come la volontà di mostrare, di rivelare, di dare forma alle
 ### What if
 Sarebbe interessante se le diverse intensità del segnale wi-fi (da quelle più deboli a quelle più forti) fossero mostrate con gradazioni di colore differenti. 
 
+##Monument, 2006, Caleb Larsen
+
+###What is
+
 
 
