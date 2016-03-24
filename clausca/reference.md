@@ -14,7 +14,7 @@ passando con il mouse su di un paese, la mappa restituisce dati associati a quel
 - sempre sulla mappa vengono evidenziati, con un colore (verde) che varia di opacità a seconda della densità del flusso,  i luoghi verso i quali i connazionali del paese in analisi sono emigrati con annessa la cifra di persone che si sono lì recate. 
 
 ### What does it mean
-La mappa racconta chiaramente e in pochi secondi l’incremento dei flussi migratori verso l’Europa, un fenomeno globale che sta crescendo in dimensione e complessità. Riesce a dare una percezione spazio-temporale del movimento migratorio, mettendo evidenza attraverso la visualizzazione dei dati in continua crescita, la situazione attuale sempre più al limite, di crisi umanitaria di profughi e rifugiati.  
+La mappa racconta chiaramente e in pochi secondi l’incremento dei flussi migratori verso l’Europa, un fenomeno globale che sta crescendo in dimensione e complessità. Riesce a dare una percezione spazio-temporale del movimento migratorio, mettendo in evidenza attraverso la visualizzazione dei dati in continua crescita, la situazione attuale sempre più al limite, di crisi umanitaria di profughi e rifugiati.  
 Consente di visualizzare la vastità di questo fenomeno e a mio parere, riesce a far riflettere su quanto questo sia grave e inquietante, cosa che non sempre riescono a fare i grafici statici pubblicati sui quotidiani. 
 
 ### What if
