@@ -51,4 +51,5 @@ Il rumore meccanico e freddo proveniente dal meccanismo di rilascio delle pallin
 
 ### What if
 Riflettere sul materiale o delle palline o della pavimentazione per avere un risposta sonora più d’impatto. Ad esempio, un suono dal timbro “corposo, scuro e pesante” per rendere la rilevanza e la gravità del fenomeno.
+Oppure, distinguere con il colore delle palline le vittime di giovane età (ad esempio con il colore bianco) da quelle di età adulta.
 
