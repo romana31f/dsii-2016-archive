@@ -19,5 +19,5 @@ La barra di misurazione, utile per il progetto, viene spostata lentamente su un 
 ### What if
 Analogamente a quanto realizzato da Arnall, Knutsen e Martinussen sarebbe interessante creare un'app che mostri in modo preciso i punti in cui prende meglio un apparecchio telefonico. L'app potrebbe funzionare camminando da un punto A ad un punto B in linea retta, in modo da dare la possibilità al programma di capire quant'è lungo il tragitto che stiamo percorrendo e di conseguenza i punti in cui il telefono prende meglio. Alla fine si avrà un grafico con una sezione trasversale che rappresenta il tragitto e il segnale della rete. Questa app potrebbe essere utile in posti in cui il segnale è molto debole oppure per capire come si comportano certi modelli di telefoni con diversi operatori telefonici.
 
-[Immaterials: Light painting WiFi](https://vimeo.com/20412632)
+[Arnall, Knutsen, Martinussen - Immaterials: Light painting WiFi](https://vimeo.com/20412632)
 
