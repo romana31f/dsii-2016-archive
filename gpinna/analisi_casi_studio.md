@@ -22,24 +22,22 @@
 *Il sistema rende visibili i segnali di wi-fi e la loro intensità, portandoci a riflettere sull'effettiva necessità di tante reti.*
 
 ##HOW IT WORKS
-*Si tratta di una striscia led alta 4 metri che grazie a un computer restituisce il segnale del wi-fi e la forza di tale segnale, mentre il gioco di luci è stato reso possibile grazie a una macchina fotografica che scatta con tempi lunghissimi.*
+*Si tratta di una striscia led alta 4 metri che grazie a un computer restituisce il segnale delle reti wireless e la forza di tale segnale, mentre il gioco di luci è stato reso possibile grazie a una macchina fotografica che scatta con tempi lunghissimi.*
 
 ##WHAT IF
-
+*Il sistema potrebbe anche evidenziare la natura delle reti: pubbliche, private, provenienti da smartphone.*
 
 # Monument, 2006, Caleb Larsen.
 
-WHAT IS
+##WHAT IS
+*E' una scatola di plastica trasparente piena di piccole sfere fissata al soffitto di una stanza vuota.*
 
+##WHAT DOES IT MEAN
+*Ogni sfera rapprensenta un persona e ogni sfera che cade rappresenta una persona che viene uccisa.*
 
-WHAT DOES IT MEAN
+##HOW IT WORKS
+*L'installazione si serve di un software personalizzato e attinge da 4.500 diverse fonti di notizie, di quotidiani inglesi, in tutto il mondo. Un algoritmo analizza i dati e il dispositivo rilascia una piccola pallina gialla per ogni persona uccisa. Circa 20.000 palline vengono lasciate cadere ogni mese e si accumulano sul pavimento della galleria durante il corso della mostra.*
 
-
-
-HOW IT WORKS
-
-
-
-WHAT IF
+##WHAT IF
 
 
