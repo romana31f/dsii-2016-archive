@@ -4,7 +4,7 @@ The flow towards Europe, 2015, Lucify
 --
 WHAT IS
 --
-Rappresentazione interattiva del flusso di richiedenti asilo presso gli stati europei dal 2012. Mappa interattiva che permette la visualizzazione giorno per giorno del flusso di migranti.
+*Rappresentazione interattiva del flusso di richiedenti asilo presso gli stati europei dal 2012. Mappa interattiva che permette la visualizzazione giorno per giorno del flusso di migranti.*
 
 --
 HOW DOES IT WORK
