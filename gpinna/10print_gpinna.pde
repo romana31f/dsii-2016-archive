@@ -14,7 +14,7 @@
       int y1 = h*23;
       int y2 = h*24;
       
-      if (random(2) < 1) { / /scelta opzioni
+      if (random(2) < 1) {  //scelta opzioni
         line(x2, y1, x1, y2);  //posizione punti
       } else {
         line(x1, y1, x2, y2);  //posizione punti
