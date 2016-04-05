@@ -6,7 +6,7 @@ Il progetto vuole esplorare, attraverso un particolare metodo fotografico, il co
 
 ##How it works 
 
-Si tratta di un bastone luminoso di 4m circa dotato di un’antenna Wi-Fi, che misura e visualizza la potenza del segnale. Quest’oggetto posto in aree in cui sono presenti segnali Wi-Fi ne rileva i cambiamenti del segnale per mezzo delle luci di cui è dotato. Per poter offrire una panoramica sul paesaggio immateriale, gli autori si avvalgono di una tecnica fotografica chiamata light-painting, che permette di "dipingere" il soggetto della foto controllando con maestria una sorgente luminosa, proprio come se essa fosse un pennello, tracciando quindi il percorso.
+Si tratta di un bastone luminoso di 4m circa dotato di un’antenna Wi-Fi, che misura e visualizza la potenza del segnale. Quest’oggetto posto in aree in cui sono presenti segnali Wi-Fi ne rileva i cambiamenti del segnale per mezzo delle luci di cui è dotato. Per poter offrire una panoramica sul paesaggio immateriale, gli autori si avvalgono di una tecnica fotografica chiamata light-painting, che permette di "dipingere" il soggetto della foto controllando una sorgente luminosa, proprio come se essa fosse un pennello, tracciando quindi il percorso.
 
 ##What does it mean 
 
