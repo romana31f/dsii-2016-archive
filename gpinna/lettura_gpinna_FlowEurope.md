@@ -13,6 +13,8 @@
 ## WHAT IF.
 *La scelta cromatica potrebbe essere perfezionata in funzione di una migliore visualizzazione, ad esempio la barra che mostra lo scorrere del tempo e la data di riferimento a un certo punto si sovrappongono, rendendo la data illegibile. Si potrebbe inoltre pensare di aggiungere degli effetti sonori che rendano l'idea dello scorrere del tempo e del movimento delle sfere.*
 
+
+
 [The flow towards Europe, Lucify](http://www.lucify.com/the-flow-towards-europe/)
 
 
