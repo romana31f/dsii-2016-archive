@@ -4,10 +4,10 @@
 *Si tratta di un'infografica interattiva che permette di visualizzare il movimento migratorio verso l'Europa, negli anni compresi tra il 2012 e il 2015.*
 
 ## WHAT DOES IT MEAN.
-*La mappa e il grafico mettono in evidenza la quantità di migranti che ha richiesto asilo nei paesi europei. Questa visualizzazione dinamica  restiruisce la dimensione di quanto il fenomeno sia drasticamente cresciuto, subendo un'impennata nell'ultimo periodo,  e di quali siano gli stati che ne sono stati maggiormente interessati.*
+*La mappa e il grafico mettono in evidenza la quantità di migranti che ha richiesto asilo nei paesi europei. Questa visualizzazione dinamica restiruisce la dimensione di quanto il fenomeno sia drasticamente cresciuto e di quali siano gli stati che ne sono stati maggiormente interessati.*
 
 ## HOW IT WORKS.
-*Mentre la barra temporale si sposta, delle piccole sfere bianche (ognuna rappresenta 25 persone) si muovono sulla mappa, da un punto a un altro, da uno stato all'altro. Spostando il mouse su un'area precisa è possibile visualizzarne i dettagli numerici.* 
+*Mentre la barra temporale scorre, delle piccole sfere bianche (ognuna rappresenta 25 persone) si muovono sulla mappa, da un punto a un altro, da uno stato all'altro. Le sfere confluiscono in barre verticali che crescono, dando ulteriore riscontro della variazione del fenomeno. Spostando il mouse su un'area precisa è possibile visualizzarne i dettagli numerici e clickando su una nazione è possibile bloccarne la selezione.* 
 *Il grafico a linee mostra invece, spostando lo slider, il tasso totale dei richiedenti asilo nel corso del tempo.*
 
 ## WHAT IF.
