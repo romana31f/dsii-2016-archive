@@ -6,7 +6,8 @@
 *Questo museo è un percorso, attraverso diverse istallazioni multisensoriali, alcune coinvolgono la vista, altre l'udito,
 altre i gesti-movimenti del corpo. Attraverso sette aree disposte in un ambiente diviso da un muro trasparente in cui vengono 
 proiettate delle immagini di persone che sbattono contro questa "parete". 
-Istallazioni:* 
+Istallazioni.* 
+
 *- Una stanza artificiale con multipli accessi, è unìambiente asettico, essenziale con pavimentazione a quadri bianghi e neri, 
 delle colonne  incorniciano due corridoi.Il visitatore ha un punto di vista privilegiato frontale, attraverso un foro,
 e ciò che vede è un'illusione ottica (stanza di Ames) cioè persone apparentemente sullo stesso piano ma con dimensioni diverse,
