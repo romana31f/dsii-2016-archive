@@ -22,7 +22,9 @@ Mentre l'impostare l'installazione come una sorta di gioco (percepito - colore g
 ### How it works
 Il funzionamento dell'installazione è basato su: 
 
-una connessione internet, un algoritmo, che cerca le notizie di morti per omicidio sul web, analizzando 4.500 fonti di notizie in lingua inglese in tutto il mondo, confrontandole tra loro per verificarne la veridicità e per assicurarsi che la notizia esaminata non sia già stata utilizzata per rilasciare un pallino.
+una connessione internet;
+
+un algoritmo, che cerca le notizie di morti per omicidio sul web, analizzando 4.500 fonti di notizie in lingua inglese in tutto il mondo, confrontandole tra loro per verificarne la veridicità e per assicurarsi che la notizia esaminata non sia già stata utilizzata per rilasciare un pallino.
 
 ### What if
 Se l'osservatore fosse consapevole di ciò che rappresentano i pallini...
