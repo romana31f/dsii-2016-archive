@@ -20,7 +20,7 @@ una connessione internet, un algoritmo, che cerca le notizie di morti per omicid
 
 ### What if
 Se l'osservatore fosse consapevole di ciò che rappresentano i pallini...
-o se ne diventasse consapevole nel corso del tempo trascorso ad osservera l'installazione, sarebbero interessanti le reazioni.
+o se ne diventasse consapevole nel corso del tempo trascorso ad osservera l'installazione, sarebbero interessanti le reazioni.(che potrebbero essere utilizzate in qualche modo...anche se la forza di questo lavoro sta anche nell'estrema semplicità)
 
 
 
