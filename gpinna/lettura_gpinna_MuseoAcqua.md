@@ -10,4 +10,4 @@
 *Al suo interno ci sono 10 installazioni multimediali, 12 proiettori video, 11 sistemi di messa in onda, 10 impianti audio, 8 impianti sensistica, 4 monitor 42"plasma. E' strutturato su tre piani, si parte dalla sua origine geologica, passando per la costruzione dei bottini fino alle mappe interattive che permetto di visualizzare stralci della città e del territorio che sono supportate dall'ausilio delle testimonianze dei vecchi abitanti.*
 
   ## WHAT IF.
-  *Purtroppo la scarsa manutenzione e la fragilità di alcuni supporti hanno già compromesso la visione di alcuni contenuti, forse andrebbe fatta una riflessione sul contesto e sull'utilizzo esasperato di alcune tecnologie.*
+*Purtroppo la scarsa manutenzione e la fragilità di alcuni supporti hanno già compromesso la visione di alcuni contenuti, forse andrebbe fatta una riflessione sul contesto e sull'utilizzo esasperato di alcune tecnologie.*
