@@ -28,7 +28,7 @@ La parte sinistra dell'ambiente presenta diversi oggetti e ambienti del manicomi
 *Ogni istallazione utilizza diversi espedientri tecnologici o analogici per indurre il visitatore a ripetere o vivere gesti tipici delle malattie mentali.
 I dispositivi tecnologici utilizzati sono principalmente dei sensori di movimento o di prossimità, degli altoparlanti o microfoni, degli schermi e dei proiettori.
 - La stanza con le campane acustiche è costituita da imbuti al cui interno sono inseriti degli altoparlanti e dei sensori di prossimità che se attivati (al passaggio dell'utente al di sotto di essi) azionano la registrazione delle voci.
-- 
+*
 
 
 ###what if | 
