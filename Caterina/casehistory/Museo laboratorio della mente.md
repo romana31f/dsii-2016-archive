@@ -6,8 +6,8 @@
 *Questo museo è un percorso, attraverso diverse istallazioni multisensoriali, alcune coinvolgono la vista, altre l'udito,
 altre i gesti-movimenti del corpo. Attraverso sette aree disposte in un ambiente diviso da un muro trasparente in cui vengono 
 proiettate delle immagini di persone che sbattono contro questa "parete". 
-Istallazioni: 
-- Una stanza artificiale con multipli accessi, è unìambiente asettico, essenziale con pavimentazione a quadri bianghi e neri, 
+Istallazioni:* 
+*- Una stanza artificiale con multipli accessi, è unìambiente asettico, essenziale con pavimentazione a quadri bianghi e neri, 
 delle colonne  incorniciano due corridoi.Il visitatore ha un punto di vista privilegiato frontale, attraverso un foro,
 e ciò che vede è un'illusione ottica (stanza di Ames) cioè persone apparentemente sullo stesso piano ma con dimensioni diverse,
 una molto più grande a sinistra e una molto più piccola a destra.  
@@ -16,9 +16,9 @@ una molto più grande a sinistra e una molto più piccola a destra.
 - Una stanza presenta uno schermo che riflette parzialmente la nostra immagine in tempo reale e parzialmente una versione ritardata.
 - Un'istallazione con una sedia posta davanti a tante lavagnette appese alla parete alcune con delle scritte, e di fronte alla sedia una vecchia macchina fotografica. Quando il visitatore si siede sulla sedia gli viene scattata una foto
 - Un'istallazione è costituita da un tavolo e una sedia, e l'utente è invitato a sedersi, poggiare i gomiti sul tavolo e tenersi la testa tra le mani.
-- Un'istallazione formata da un tavolo inclinato con un monitor su cui si trovano delle foto di pazienti disposte casualmente. L'utente sedendosi sulla sedia posta di fronte al gestisce la navigazione dell'istallazione attivando le narrazioni audio.
+- Un'istallazione formata da un tavolo inclinato con un monitor su cui si trovano delle foto di pazienti disposte casualmente. L'utente sedendosi sulla sedia posta di fronte al gestisce la navigazione dell'istallazione attivando le narrazioni audio.*
 
-La parte sinistra dell'ambiente presenta diversi oggetti e ambienti del manicomio. Il "muro trasparente" in questo ambiente viene inciso con i disegni e le scritte di un paziente molto noto.*
+*La parte sinistra dell'ambiente presenta diversi oggetti e ambienti del manicomio. Il "muro trasparente" in questo ambiente viene inciso con i disegni e le scritte di un paziente molto noto.*
 
 
 ###what does it mean |
@@ -27,8 +27,7 @@ La parte sinistra dell'ambiente presenta diversi oggetti e ambienti del manicomi
 ###how it works | 
 *Ogni istallazione utilizza diversi espedientri tecnologici o analogici per indurre il visitatore a ripetere o vivere gesti tipici delle malattie mentali.
 I dispositivi tecnologici utilizzati sono principalmente dei sensori di movimento o di prossimità, degli altoparlanti o microfoni, degli schermi e dei proiettori.
-- La stanza con le campane acustiche è costituita da imbuti al cui interno sono inseriti degli altoparlanti e dei sensori di prossimità che se attivati (al passaggio dell'utente al di sotto di essi) azionano la registrazione delle voci.
-*
+- La stanza con le campane acustiche è costituita da imbuti al cui interno sono inseriti degli altoparlanti e dei sensori di prossimità che se attivati (al passaggio dell'utente al di sotto di essi) azionano la registrazione delle voci.*
 
 
 ###what if | 
