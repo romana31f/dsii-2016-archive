@@ -1,7 +1,7 @@
 # Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Eina.
 
 ## WHAT IS.
-*E' un progetto urbano che mappa i segnali delle reti wi-fi sparse per la città.*
+*E' un progetto urbano che mappa i segnali delle reti wi-fi sparsi per la città.*
 
 ## WHAT DOES IT MEAN.
 *Il sistema porta a riflettere su un aspetto, immateriale appunto, della nostra quotidianità a cui spesso non badiamo: il fatto che siamo immersi in una rete di reti.*
