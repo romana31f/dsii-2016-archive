@@ -1,4 +1,4 @@
-##Museo laboratorio della mente
+##Museo laboratorio della mente - Roma
 
 ###What is
 È un’installazione progettata da Paolo Rosa e Studio Azzurro negli spazi dell’Ospedale psichiatrico Santa Maria della Pietà a Roma, il cui obiettivo è quello di raccontare le memorie, i modi di vivere, le forme e i linguaggi di questo luogo.
