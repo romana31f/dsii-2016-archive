@@ -19,4 +19,4 @@ L'asta così realizzata è stata portata ingiro per le strade di Oslo, al fine d
 Quindi, sono state scattate fotografie con tempi d'esposizione lunghi per poter ottenere la visualizzazione delle reti (le visualizzazioni sono tratteggiate, perchè le luci sull'asta sono intermittenti, ciò lascia più facilmente vedere quello che c'è dietro).
 
 ### What if
-
+Se si riuscisse a rendere ulteriormente più reali i grafici creati? quindi non visibili esclusivamente in un video eventualmente proiettati sulle architetture a cui si riferiscono (video mapping).
