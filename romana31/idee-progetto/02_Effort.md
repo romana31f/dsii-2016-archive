@@ -26,5 +26,5 @@ Gli oggetti in questione dotati di appositi sensori utili, ad esempio, al rileva
 ---
 OUTPUT:
 ---
- Un’installazione ad acqua, con scopo genericamente decorativo, permette di leggere in anteprima i dati analizzati dai dispositivi della palestra (ottenuti attraverso i sensori) e di fornire quindi un’idea dell’andamento generale degli allenamenti: quanta affluenza di clienti e con quale intensità.
+ Un’installazione fluida,ad acqua, permette di leggere in anteprima i dati analizzati dai dispositivi della palestra (ottenuti attraverso i sensori) e di fornire quindi un’idea dell’andamento generale degli allenamenti: quanta affluenza di clienti e con quale intensità. Si vuole invogliare pertanto ad essere parte attiva del flusso e quindi intraprendere un certo tipo di attività.
 Nelle ore di maggior concentrazione, l’installazione permetterà di visualizzare un flusso molto dinamico ed energico. Viceversa, nei momenti di calma, la stessa risponderà di conseguenza.
