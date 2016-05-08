@@ -154,3 +154,7 @@ Main Job Families
 Ease of recruitment current: HARD
 Ease of recruitment 2020: ¬HARDER
 
+
+
+![Schema01](http://i.imgur.com/Q7j0Ngz.png)
+
