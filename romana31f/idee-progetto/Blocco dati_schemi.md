@@ -18,6 +18,7 @@ Main Job Families
 
 Ease of recruitment current: HARD
 Ease of recruitment 2020: HARDER
+
 --
 CONSUMER
 --
