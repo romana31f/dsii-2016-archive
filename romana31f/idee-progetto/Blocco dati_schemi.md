@@ -1,7 +1,7 @@
 Blocco dati e schemi:
 
 
-![Schema01](http://imgur.com/Rf11RoS)
+![Schema01](http://i.imgur.com/Rf11RoS.jpg)
 --
 BASIC AND INFRASTRUCTURE
 --
