@@ -69,7 +69,10 @@ The ability to determine the deeper meaning or significance of what is being exp
 - SOCIAL INTELLIGENCE
 ---
 The ability to connect to others in a deep and direct way, to sense and stimulate reactions and desired interactions 
+
+---
 - NOVEL AND ADAPTATIVE THINKING
+---
 proficiency at thinking and coming up with solutions and responses beyond that which is rote or rule-based 
 
 ---
