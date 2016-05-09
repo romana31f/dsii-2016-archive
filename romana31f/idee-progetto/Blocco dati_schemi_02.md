@@ -58,6 +58,11 @@ At its most basic level, globalization is the long-term trend toward greater exc
 For decades, most multinational companies have used their overseas subsidiaries as sales and technical support chan- nels for the headquarters. In the last ten years, overseas companies, particularly IT ones, outsourced everything from customer services to software development. The model, however, has stayed the same: innovation and design have been the prerogative of R&D labs in developed countries. As markets in China, India, and other developing countries grow, it is increasingly difficult for the headquarters to de- velop products that can suit the needs of a whole different category of consumers. 
 Presence in areas where new competitors are popping up is critical to survival, but it is not enough. The key is not just to employ people in these locales but also to effectively in- tegrate these local employees and local business processes into the infrastructure of global organizations in order to remain competitive. 
 
+![Ten Skills for the future workforce](http://i.imgur.com/CpCPkbV.jpg)
+
+--
+TEN SKILLS FOR THE FUTURE WORKFORCE
+--
 
 
 ---
