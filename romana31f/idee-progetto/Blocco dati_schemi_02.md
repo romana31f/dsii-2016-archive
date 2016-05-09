@@ -59,3 +59,52 @@ For decades, most multinational companies have used their overseas subsidiaries 
 Presence in areas where new competitors are popping up is critical to survival, but it is not enough. The key is not just to employ people in these locales but also to effectively in- tegrate these local employees and local business processes into the infrastructure of global organizations in order to remain competitive. 
 
 
+
+---
+- SENSE – MAKING
+---
+The ability to determine the deeper meaning or significance of what is being expressed 
+
+---
+- SOCIAL INTELLIGENCE
+---
+The ability to connect to others in a deep and direct way, to sense and stimulate reactions and desired interactions 
+- NOVEL AND ADAPTATIVE THINKING
+proficiency at thinking and coming up with solutions and responses beyond that which is rote or rule-based 
+
+---
+- CROSS-CULTURAL COMPETENCY
+---
+ability to operate in different cultural settings 
+
+---
+- COMPUTATIONAL THINKING
+---
+ability to translate vast amounts of data into  abstract concepts and to understand data-based reasoning 
+
+---
+- NEW-MEDIA LITERACY
+---
+ability to critically assess and develop content that uses new media forms, and to leverage these media for persuasive communication 
+
+---
+- TRANSDISCIPLINARITY
+---
+literacy in and ability to understand concepts across multiple disciplines 
+
+---
+- DESIGN MINDSET
+---
+ability to represent and develop tasks and work processes for desired outcomes 
+
+---
+- COGNITIVE LOAD MANAGEMENT
+---
+ability to discriminate and filter information for importance, and to understand how to maximize cognitive functioning using a variety of tools and techniques 
+
+---
+- VIRTUAL COLLABORATION
+---
+ability to work productively, drive engagement, and demonstrate presence as a member of a virtual team. 
+
+
