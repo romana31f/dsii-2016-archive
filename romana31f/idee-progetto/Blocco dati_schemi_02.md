@@ -12,6 +12,7 @@ Increasing global lifespans change the nature of careers and learning
 It is estimated that by 2025, the number of Americans over 60 will increase by 70%. Over the next decade we will see the challenge of an aging population come to the fore. New perceptions of what it means to age, as well as the emerg- ing possibilities for realistic, healthy life-extension, will begin take hold. 
 Individuals will need to rearrange their approach to their careers, family life, and education to accommodate this de- mographic shift. Increasingly, people will work long past 65 in order to have adequate resources for retirement. Multiple careers will be commonplace and lifelong learning to pre- pare for occupational change will see major growth. To take advantage of this well-experienced and still vital workforce, organizations will have to rethink the traditional career paths in organizations, creating more diversity and flexibility. 
 Aging individuals will increasingly demand opportunities, products, and medical services to accommodate more healthy and active senior years. As we move toward to a world of healthier lifestyles and holistic approaches to what we eat, how we work, and where we live, much of daily life—and the global economy as a whole—will be viewed through the lens of health. 
+
 ---
 2 - Rise of smart machines and systems
 ---
@@ -20,9 +21,9 @@ Workplace automation nudges human workers out of rote, repetitive tasks
 We are on the cusp of a major transformation in our relationships with our tools. Over the next decade, new smart machines will enter offices, factories, and homes in numbers we have never seen before. They will become integral to production, teaching, combat, medicine, security, and virtually every domain of our lives. As these machines replace humans in some tasks, and augment them in others, their largest impact may be less obvious: their very presence among us will force us to confront important questions. What are humans uniquely good at? What is our compara- tive advantage? And what is our place alongside these machines? We will have to rethink the content of our work and our work processes in response. 
 In some areas, a new generation of automated systems will replace humans, freeing us up to do the things we are good at and actually enjoy. In other domains, the machines will become our collaborators, augmenting our own skills and abilities. Smart machines will also establish new expecta- tions and standards of performance. Of course, some rou- tine jobs will be taken over by machines—this has already happened and will continue. But the real power in robotics technologies lies in their ability to augment and extend 
 our own capabilities. We will be entering into a new kind of partnership with machines that will build on our mutual strengths, resulting in a new level of human-machine col- laboration and codependence. 
----
 
-Computational world
+---
+3 - Computational world
 ---
 Massive increases in sensors and processing power make the world a programmable system
 
@@ -31,7 +32,7 @@ The collection of enormous quantities of data will enable modeling of social sys
 As a result, whether it is running a business or managing individual health, our work and personal lives will increas- ingly demand abilities to interact with data, see patterns in data, make data-based decisions, and use data to design for desired outcomes. 
 
 ---
-New media technology
+4 - New media technology
 ---
 New communication tools require new media literacies beyod text
 
@@ -40,7 +41,7 @@ Already, the text-based Internet is transforming to privilege video, animation, 
 New media is placing new demands on attention and cognition. It is enabling new platforms for creating online identity while at the same time requiring people to engage in activities such as online personal reputation and identity management. It is enabling new ways for groups to come together and collaborate, bringing in new levels of trans- parency to our work and personal lives. At the same time, our sensibility toward reality and truth is likely to be radically altered by the new media ecology. We must learn to approach content with more skepticism and the realization that what you see today may be different tomorrow. Not only are we going to have multiple interpretations of recorded events, but with ubiquitous capture and surveillance, events will be seen from multiple angles and perspectives, each possibly telling a different story of individual events. 
 
 ---
-Superstructured organizations
+5 - Superstructured organizations
 ---
 Social technologies drive new forms of production and value creation
 
@@ -50,7 +51,7 @@ Our tools and technologies shape the kinds of social, economic, and political or
 A new generation of organizational concepts and work skills is coming not from traditional management/organizational theories but from fields such as game design, neurosci- ence, and happiness psychology. These fields will drive the creation of new training paradigms and tools. 
 
 ---
-Globally connected world
+6 - Globally connected world
 ---
 Increased global interconnectivity puts diversity and adaptability at the center of organizational operations
 At its most basic level, globalization is the long-term trend toward greater exchanges and integration across geographic borders. In our highly globally connected and interdepen- dent world, the United States and Europe no longer hold a mono-poly on job creation, innovation, and political power. Organizations from resource- and infrastructure-constrained markets in developing countries like India and China are inno- vating at a faster pace than those from developed countries in some areas, such as mobile technologies. In fact, a lack of legacy infrastructure is combining with rapidly growing mar- kets to fuel higher rates of growth in developing countries. 
