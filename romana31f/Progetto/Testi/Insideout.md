@@ -3,7 +3,7 @@
 WHAT IS IT?
 --
 
-Nel progetto (NOME PROGETTO) il concetto d’invisibilità da rendere visibile risiede proprio dentro noi stessi.
+Nel progetto Insideout il concetto d’invisibilità da rendere visibile risiede proprio dentro noi stessi.
 Normalmente viviamo in una dimensione di apparente normalità: svogliamo le mansioni che ci spettano quotidianamente, ci spostiamo, ci relazioniamo con persone, ridiamo, ci arrabbiamo... In tutto l’arco della giornata il nostro corpo risente continuamente del modo in cui ci interfacciamo al mondo circostante: contesti, persone, cose. L’obiettivo di questo progetto è quello di rendere visibile questo flusso di relazioni che avviene incessantemente fra noi e il resto del mondo: come cambiano i parametri corporei e cosa siamo in grado di mostrare (e allo stesso modo nascondere) quando riceviamo degli stimoli esterni.
 
 --
