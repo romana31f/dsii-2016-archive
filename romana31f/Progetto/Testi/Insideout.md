@@ -21,8 +21,11 @@ La forma, il movimento, il colore e la luminosità dell’immagine dipendono inf
 
 la visualizzazione oleografica consente di trasporre questa immagine più interna ed intima all’esterno. Posizionando una mano sulla superficie sensibile e con l’altra mostrare l’immagine ottenuta (attraverso un device), consente di rendere visibile questo flusso continuo di emozioni.
 
-[Ischemi esplicativi]
+Ipotesi istallazione:
+![Ipotesi Istallazione](http://i.imgur.com/EZs1qNu.jpg)
 
+Ipotesi wereable:
+![Ipotesi Istallazione](http://i.imgur.com/svEzQbM.jpg)
 
 
 --
