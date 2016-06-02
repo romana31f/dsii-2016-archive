@@ -73,5 +73,28 @@ DATI PROTOTIPO
 
 Il prototipo mette in evidenza solo una parte del progetto, ovvero la misurazione e l’elaborazione di due tipologie di dati: il battito cardiaco e la temperatura corporea. I valori in entrata andranno rispettivamente a incidere sulle variazione di forme/trasformazioni (pulsazioni cardiache ed elaborazione bpm) e colore/saturazione (temperatura). Le misurazioni non corrispondono esattamente a quelle immaginate per il prodotto finito, per il quale si ipotizza un supporto più articolato e sensibile ed in grado di immagazzinare dati provenienti da più fonti (altre misurazioni biometriche).
 
-[schemi esplicativi]
+Il battito cardiaco viene rilevato attraverso un Pulse sensor collegato alla scheda di Arduino UNO  [immagine].
+Variabili interessate: SIGNAL (int per i dati in ingresso dal pin analogico al quale è collegato uno dei tre cavi – viene aggiornato ogni 2ms); IBI (int per l’intervallo fra una pulsazione e un’altra); BPM (int per il valore del battito cardiaco da una media di 10 IBI); PULSE (boolean vera per la percezione della pulsazione e falsa per l’assenza); QS (boolean vera per ogni volta che viene registrata una pulsazione e il BPM viene aggiornato).
+I dati arrivano in ingresso alla scheda Arduino e vengono dunque elaborati attraverso Processing: nel prototipo viene visualizzata una rete irregolare nello spazio che ricorda i tessuti capillari, il cui spessore viene influenzato dal valore della pulsazione come se rappresentasse lo scorrere del sangue. Poiché i valori in ingresso sono sostanzialmente di due tipi (0 e 1) è possibile visualizzare solo due spessori (un minimo ed un massimo mappati secondo i valori dello spessore della forma 3d).
+
+--
+PROGETTO IDEALE 
+--
+
+Contestualizzazione e funzionalità
+
+Il progetto è stato pensato per prendere vita come un’istallazione interattiva inserita all’interno di un’esposizione museale.
+La partecipazione all’attività permette ai visitatori di interfacciarsi singolarmente (o a coppie?)con una superficie hardware definita come una struttura in grado di rilevare specifici parametri.
+Quando l’istallazione non è attiva viene evidenziato solo un percorso luminoso per consentire all’utente di interfacciarsi con la stessa.
+
+La persona è invitata a posizionare le mani su un totem e ad esercitare una pressione per consentire la lettura più precisa dei dati rilevati sul palmo (per monitorare il battito cardiaco infatti non è sufficiente appoggiare la mano ma è necessaria una pressione dell’arto). [ragionare sulla progettazione dell’interfaccia: cosa invita ad esercitare una maggior pressione delle mani?]
+Per la lettura dei parametri sono necessari alcuni secondi: un feedback luminoso e sonoro del totem informa la persona dell’avvenuta lettura.
+
+Nel frattempo un sistema di visualizzazione oleografica posto di fronte al totem si prepara alla rappresentazione dell’immagine: nel momento iniziale delle forme organizzate casualmente in uno spazio tridimensionale sono scomposte e disordinate per poi essere assemblate e consentire (una volta individuati i parametri) una visualizzazione più chiara dell’esperienza.
+
+La rappresentazione che compare una volta raccolti e analizzati i dati (battito cardiaco, temperatura ed umidità della pelle) è quella di un cuore (rappresentazione reale dell’organo) definito da taglienti superfici  i cui spigoli, concordi con i dati, si muovono nello spazio creando un ritmo biologico-elettronico.
+Il volume tridimensionale viene interessato non solo per la sua forma e movimento nello spazio, ma anche per i parametri di colore e saturazione, definiti sempre secondo i dati rilevati.
+
+![Ipotesi Istallazione](http://i.imgur.com/iOiAfxB.jpg)
+
 
