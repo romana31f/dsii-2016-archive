@@ -98,3 +98,16 @@ Il volume tridimensionale viene interessato non solo per la sua forma e moviment
 ![Ipotesi Istallazione](http://i.imgur.com/iOiAfxB.jpg)
 
 
+--
+REFERENZE
+--
+
+1 – PULSE ROOM - Rafael Lonzano Hemmer (http://www.lozano-hemmer.com/pulse_room.php)
+
+Pulse Room è un’istallazione interattiva che prevede l’inserimento di trecento lampadine ad incandescenza (300W) sospese attraverso dei cavi lunghi tre metri. Le lampadine sono distribuite uniformemente all’interno della stanza dove è situata l’istallazione, riempendola completamente. Un’interfaccia posta in un estremo della stanza è munita di appositi sensori in grado di monitorare il battito cardiaco delle persone che, attaccandosi all’interfaccia, consentono il monitoraggio dei propri dati. Quando viene rilevata la pulsazione la lampadina più vicina all’utente comincia a accendersi e spegnersi concorde con il ritmo cardiaco della persona. Quando la presa viene rilasciata tutte le luci si spengono per un istante e il segnale viene inviato alla prima lampadina disponibile nella griglia dell’istallazione.
+Per ogni battito cardiaco registrato i dati vengono inviati dalla lampadina dell’interfaccia a quelle dell’istallazione, facendo slittare di un posto (lampadine adiacenti) quelle registrate precedentemente.
+Il lavoro trae la sua ispirazione dal film Macario, diretto da Roberto Gavaldon nel 1960 in cui il protagonista, in preda alle allucinazione vede delle persone all’interno di una grotta rappresentate ognuna da una candela accesa.
+
+2 - THE INTERACTIVE ARENA - Arik Levy (http://www.ariklevy.fr/art/installations/osmosis-interactive-09-2012#.V0_25hWLQ6g)
+
+
