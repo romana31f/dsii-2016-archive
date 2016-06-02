@@ -111,3 +111,13 @@ Il lavoro trae la sua ispirazione dal film Macario, diretto da Roberto Gavaldon 
 2 - THE INTERACTIVE ARENA - Arik Levy (http://www.ariklevy.fr/art/installations/osmosis-interactive-09-2012#.V0_25hWLQ6g)
 
 
+--
+INDICE TEMI ELABORATO FINALE
+--
+
+-	Concept: Rendere visibili le emozioni (spiegazione del progetto come funziona)
+-	Insideout: Progetto ideale (contestualizzazioni e funzionalità)
+-	Emozioni e parametri biometrici
+-	Prototipo
+-	Referenze
+-	Sviluppi futuri
