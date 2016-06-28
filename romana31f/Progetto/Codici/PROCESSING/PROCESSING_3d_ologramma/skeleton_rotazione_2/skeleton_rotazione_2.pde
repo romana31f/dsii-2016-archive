@@ -1,5 +1,11 @@
 /* .. */
-
+// -
+// AboutMe by Francesca Romana Rossi [pulse, hologram]
+// 2016 © Francesca Romana Rossi, Daniele @Fupete and the course DSII2016 @UniRSM  
+// github.com/fupete — github.com/dsii-2016-unirsm
+// Educational purposes, MIT License, 2016, San Marino
+// —
+//
 /*-----------------------------------
  3d visualization engine based on example 
  IsoSkeleton from library ComputationalGeometry 
